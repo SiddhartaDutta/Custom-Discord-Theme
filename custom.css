@@ -1,0 +1,316 @@
+:root {
+    --theme-pink: #ff7d8e;
+    --theme-dark-blue: #202430;
+    --theme-dark-blue-2: #13161d;
+    --theme-light-blue: #2c3042;
+    --theme-text-gray: #c2c0cd;
+    --theme-green: #47ac87;
+}
+
+/* GENERAL EDITS */
+    /* Discord logo color */
+    .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub {
+        background-color: var(--theme-pink);
+    }
+
+    /* Space under text/type box */
+    .form-3gdLxP {
+        background-color: var(--theme-dark-blue);
+    }
+
+    .theme-dark .form-3gdLxP:before {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Button backgrounds (mute, deafen, gif, send, etc) */
+    .lookBlank-FgPMy6 {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Member list */
+    .members-3WRCEx {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Text type area/bar */
+    .scrollableContainer-15eg7h {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Area with mute, deafen, setting button (background area) */
+    .theme-dark .container-YkUktl {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Scroll surround */
+    .scrollerBase-1Pkza4 {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Search bar above members (right side) */
+    .full-motion .searchBar-jGtisZ {
+        background-color: var(--theme-dark-blue-2);
+    }
+
+    /* Emoji list background */
+    .list-3V14yy {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Emoji list headers */
+    .header-1ULbqO {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Emoji search bar */
+    .inner-1NoIT5 {
+        background-color: var(--theme-dark-blue-2);
+    }
+
+    /* Sticker list background */
+    .scroller-2MALzE {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Sticker list headers */
+    .wrapper-1NNaWG {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Area around search bar */
+    .emojiPickerHasTabWrapper-LoluYe .header-11eigE {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Area around buttons */
+    .contentWrapper-3vHNP2 {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Selected tab (GIFs, Stickers, Emoji) */
+    .navButtonActive-1EqC5l, .navButtonActive-1EqC5l:hover {
+        background-color: var(--theme-pink);
+    }
+
+    /* Server list for stickers and emojis */
+    .list-obNEuP {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Default emoji category selected background (the heart and clock) */
+    .categoryItemDefaultCategorySelected-2YeRUu, .categoryItemDefaultCategorySelected-2YeRUu:hover {
+        background-color: var(--theme-pink);
+    }
+
+    /* Diversity drop down background */
+    .diversitySelectorOptionsHasTabWrapper-3e_5Wj {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Lower "discription" bar */
+    .inspector-DFKXwB {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Shortcut to emojis (bottom left corner) */
+    .unicodeShortcut-3N8oDe {
+        background-color: var(--theme-dark-blue-2);
+    }
+
+    /* Notification for new pinned message */
+    .iconBadge-3Mmg92 {
+        background-color: var(--theme-pink);
+    }
+
+    /* New message notification bar */
+    .barBase-3xxDXu {
+        background-color: var(--theme-pink);
+        
+        /* color: var(--theme-pink); */
+    }
+
+    /* "Pinned Messages" header */
+    .header-1w9Q93 {
+        background-color: var(--theme-dark-blue-2);
+    }
+
+    /* Background of pinned messages */
+    .messagesPopout-eVzQcI {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Background of each individual pinned message */
+    .messageGroupWrapper-1jf_7C .messageGroupCozy-3v_RqN {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Jump button */
+    .jumpButton-1ZwI_j {
+        background-color: var(--theme-pink);
+        color: white;
+    }
+
+    /* .unreadMentionsIndicatorTop-2bTgUU {
+        background-color: var(--theme-pink);
+    } */
+
+    /* "New" message color */
+    .mention-3XBnnZ {
+        background-color: var(--theme-pink);
+    }
+
+    /* Reaction to message background */
+    .reaction-3vwAF2 {
+        background-color: var(--theme-light-blue);
+    }
+
+    .button-3bklZh {
+        background-color: var(--theme-dark-blue-2);
+        /* color: white; */
+    }
+
+    .button-3bklZh:hover {
+        background-color: var(--theme-pink);
+        /* color: white; */
+    }
+
+/* FRIENDS TAB */
+
+    /* Users list */
+    .peopleColumn-1wMU14 {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Area above user if dm too small */
+    .scrollerContent-2SW0kQ {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Friend add button */
+    .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1 {
+        background-color: var(--theme-green);
+    }
+
+    /* Active now cards/panels */
+    .itemCard-3Etziu {
+        background-color: var(--theme-dark-blue-2);
+    }
+
+    /* Search bar (for friends list) */
+    .inner-2pOSmK {
+        background-color: var(--theme-dark-blue-2);
+    }
+
+    /* Small search bar above dm list */
+    .searchBar-3TnChZ {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Left side convo search bar */
+    .searchBar-3TnChZ .searchBarComponent-3N7dCG {
+        background-color: var(--theme-dark-blue);
+    }
+
+/* DM's PAGE */
+
+    /* Main text area */
+    .scrollerInner-2PPAp2 {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* DM list */
+    .theme-dark .scroller-WSmht3 {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* .theme-dark .themed-Hp1KC_ {
+        background-color: red;
+    } */
+
+/* USERS */
+
+    .userPopoutOverlayBackground-dKOOda {
+        background-color: var(--theme-dark-blue);
+    }
+
+/* TOP LEFT SEARCH BAR (DMs PAGE)*/
+
+    /* Entire search area background */
+    .quickswitcher-pKcM9U {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Search prompt/bar background */
+    .input-3r5zZY {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Scroll area (for previous channels) */
+    .scroller-2qwVWY {
+        background-color: var(--theme-light-blue);
+    }
+
+/* SERVER LIST */
+
+    /* Notification half-circle icon */
+    .item-2LIpTv {
+        background-color: var(--theme-text-gray);
+    }
+
+    /* Server list */
+    .scroller-3X7KbA {
+        background-color: var(--theme-dark-blue);
+    }
+
+    /* Folder color */
+    .folder-241Joy {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Expanded color */
+    .expandedFolderBackground-1kSAf6 {
+        background-color: var(--theme-light-blue);
+    }
+
+/* SERVER PAGE */
+
+    /* Server channel select area */
+    .scroller-1ox3I2 {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Server name area */
+    .header-3OsQeK {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Boxes around members in server */
+    .layout-1qmrhw {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Panel "behind" server members */
+    .member-48YF_l, .members-3WRCEx {
+        background-color: var(--theme-light-blue);
+    }
+
+    /* Interacted highlight */
+    .interactiveSelected-29CP8y {
+        background-color: var(--theme-pink);
+    }
+
+    /* .mainContent-20q_Hp:before {
+        background-color: var(--theme-pink);
+    } */
+
+    /* top bar */
+    .theme-dark .themed-Hp1KC_ {
+        background-color: var(--theme-dark-blue);
+    }
+
+/* Call Settings */
+
+    
+    .container-1zzFcN {
+        background-color: var(--theme-dark-blue);
+    }
